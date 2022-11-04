@@ -1,0 +1,11 @@
+.header {
+    color: rgb(9, 77, 9);
+    text-align: center;
+}
+.yellow {
+    background-color: rgb(240, 240, 13);
+}
+.blue {
+    background-color: rgb(9, 9, 230);
+    color: #fff;
+}
